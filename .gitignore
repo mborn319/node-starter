@@ -1,0 +1,8 @@
+# editors
+.vscode
+*.swp
+*.swo
+
+# npm, etc.
+node_modules
+
