@@ -6,3 +6,5 @@
 # npm, etc.
 node_modules
 
+# env vars
+.env
